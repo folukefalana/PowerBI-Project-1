@@ -24,5 +24,5 @@
 - Actionable Insights: Turn raw data into actionable insights for informed decision-making.
 - User-Friendly Interface: Intuitive dashboards and reports cater to users with varying levels of data expertise.
 - Strategic Optimization: Identify opportunities for growth, streamline operations, and enhance overall business performance.
-- 
+
 Conclusion: "Adventureworks Visualized Data" is not just a collection of charts; it's a strategic tool that transforms data complexity into simplicity, enabling stakeholders to navigate the AdventureWorks dataset with ease and extract valuable insights for sustainable business growth. https://github.com/folukefalana/PowerBI-Project-1/blob/main/AdventureWorks%20Visualization%202.pbix
