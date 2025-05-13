@@ -29,4 +29,5 @@ Conclusion: "Adventureworks Visualized Data" is not just a collection of charts;
 
 ### Data Visualization
 
-![AdventWork Data Visualization](https://github.com/user-attachments/assets/396a52ff-151b-449c-ba28-ffdaa7aecdc8)
+![Adventure work Data Visualization](https://github.com/user-attachments/assets/05afebde-fbaf-44cb-abaf-1204ba1c67bf)
+
