@@ -2,7 +2,7 @@
 ---
 ### Project Overview
 
-["AdventureWorks Visualized Data"](https://moderncomms678066-my.sharepoint.com/:u:/g/personal/foluke_moderncomms678066_onmicrosoft_com/ESNLKcwU0nlFmQkN1QewS3EBP4dfYLPUoS32btm0jyfuLg?e=ER7XvF) is a Power BI project designed to turn the complex AdventureWorks sample database into clear, interactive visualizations. This project offers an in-depth look at the company's operations, with a focus on important areas like sales trends, product performance, and customer behavior. It provides a practical and engaging way to explore and understand the data.
+["AdventureWorks Visualized Data"](https://moderncomms678066-my.sharepoint.com/:u:/g/personal/foluke_moderncomms678066_onmicrosoft_com/ESNLKcwU0nlFmQkN1QewS3EBP4dfYLPUoS32btm0jyfuLg?e=10Uyxf) is a Power BI project designed to turn the complex AdventureWorks sample database into clear, interactive visualizations. This project offers an in-depth look at the company's operations, with a focus on important areas like sales trends, product performance, and customer behavior. It provides a practical and engaging way to explore and understand the data.
 
 ---
 ### Key Features:
