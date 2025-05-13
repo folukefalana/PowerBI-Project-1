@@ -2,7 +2,7 @@
 ---
 ### Project Overview
 
-["AdventureWorks Visualized Data"](https://1drv.ms/u/c/53d9d0eaf14ddcbb/EVqJ_n6fszlDlmdw263zKiUBCQSKP_PkjNbFxx1pdz7G1w?e=gY4QNK) is a Power BI project designed to turn the complex AdventureWorks sample database into clear, interactive visualizations. This project offers an in-depth look at the company's operations, with a focus on important areas like sales trends, product performance, and customer behavior. It provides a practical and engaging way to explore and understand the data.
+["AdventureWorks Visualized Data"](https://1drv.ms/u/c/53d9d0eaf14ddcbb/EXzVscCInKZBn-SCqpkYOlEBwAA7YBbR-NGxHoay2HWOnQ?e=Nrmou4) is a Power BI project designed to turn the complex AdventureWorks sample database into clear, interactive visualizations. This project offers an in-depth look at the company's operations, with a focus on important areas like sales trends, product performance, and customer behavior. It provides a practical and engaging way to explore and understand the data.
 
 ---
 ### Key Features:
