@@ -25,4 +25,8 @@
 - User-Friendly Interface: Intuitive dashboards and reports cater to users with varying levels of data expertise.
 - Strategic Optimization: Identify opportunities for growth, streamline operations, and enhance overall business performance.
 
-Conclusion: "Adventureworks Visualized Data" is not just a collection of charts; it's a strategic tool that transforms data complexity into simplicity, enabling stakeholders to navigate the AdventureWorks dataset with ease and extract valuable insights for sustainable business growth. https://github.com/folukefalana/PowerBI-Project-1/blob/main/AdventureWorks%20Visualization%202.pbix
+Conclusion: "Adventureworks Visualized Data" is not just a collection of charts; it's a strategic tool that transforms data complexity into simplicity, enabling stakeholders to navigate the AdventureWorks dataset with ease and extract valuable insights for sustainable business growth.
+
+### Data Visualization
+
+![AdventWork Data Visualization](https://github.com/user-attachments/assets/396a52ff-151b-449c-ba28-ffdaa7aecdc8)
