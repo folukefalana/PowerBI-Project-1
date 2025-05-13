@@ -1,9 +1,11 @@
 # PowerBI-Project-1
 ---
-### project Overview
-"Adventureworks Visualized Data" is an immersive Power BI project that transforms the vast and complex dataset from the AdventureWorks sample database into insightful visualizations. The project aims to provide a comprehensive view of the company's operations, focusing on key areas such as sales, product performance, and customer behavior.
+### Project Overview
+
+[https://moderncomms678066-my.sharepoint.com/:u:/g/personal/foluke_moderncomms678066_onmicrosoft_com/ESNLKcwU0nlFmQkN1QewS3EBP4dfYLPUoS32btm0jyfuLg?e=ER7XvF]("AdventureWorks Visualized Data") is a Power BI project designed to turn the complex AdventureWorks sample database into clear, interactive visualizations. This project offers an in-depth look at the company's operations, with a focus on important areas like sales trends, product performance, and customer behavior. It provides a practical and engaging way to explore and understand the data.
+
 ---
-## Key Features:
+### Key Features:
 
 1. Sales Performance Dashboard: Dive into dynamic visualizations showcasing sales trends over time, regional variations, and product-wise revenue. Gain actionable insights into the factors influencing sales growth and identify opportunities for optimization.
 
